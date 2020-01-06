@@ -23,11 +23,11 @@ The goals / steps of this project are the following:
 [image3]: ./examples/predictions.png "Predictions"
 [image4]: ./examples/valid.png "Validation Data"
 [image5]: ./examples/test.png "Test Data"
-[image6]: ./examples/predictions.png "Predictions"
-[image7]: ./examples/predictions.png "Predictions"
-[image8]: ./examples/predictions.png "Predictions"
-[image9]: ./examples/predictions.png "Predictions"
-[image10]: ./examples/predictions.png "Predictions"
+[image6]: ./examples/predictions2.png "Predictions"
+[image7]: ./examples/predictions3.png "Predictions"
+[image8]: ./examples/predictions4.png "Predictions"
+[image9]: ./examples/predictions5.png "Predictions"
+[image10]: ./examples/predictions6.png "Predictions"
 
 ---
 
