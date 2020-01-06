@@ -23,6 +23,11 @@ The goals / steps of this project are the following:
 [image3]: ./examples/predictions.png "Predictions"
 [image4]: ./examples/valid.png "Validation Data"
 [image5]: ./examples/test.png "Test Data"
+[image6]: ./examples/predictions.png "Predictions"
+[image7]: ./examples/predictions.png "Predictions"
+[image8]: ./examples/predictions.png "Predictions"
+[image9]: ./examples/predictions.png "Predictions"
+[image10]: ./examples/predictions.png "Predictions"
 
 ---
 
@@ -140,4 +145,8 @@ The code for making predictions on my final model is located in the 33th cell of
 Here is the final result figure:
 
 ![alt text][image3]
-
+![alt text][image6]
+![alt text][image7]
+![alt text][image8]
+![alt text][image9]
+![alt text][image10]
