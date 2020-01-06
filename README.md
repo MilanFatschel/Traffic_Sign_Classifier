@@ -56,10 +56,10 @@ Here is an exploratory visualization of the data set.
 
 #### 1. Preprocessing 
 
-As a first step, I decided to convert the images to grayscale and to make the 
+As a first step, I decided to convert the images to grayscale in order to make the 
 computation on the neural network less costly. The neural network does not need all three 
-channel to make calculations on. Also, normalizing the data kept the data within
-the a smaller scale constraint since pixel values can be somewhat wide-spread, 
+channels to make calculations on. Also, normalizing the data kept the data within
+a smaller scale constraint since pixel values can be somewhat wide-spread, 
 however not necessary.
 
 
